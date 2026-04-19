@@ -1,5 +1,5 @@
 # 💫 About Me:
- B.Tech Computer Science Engineering (AI-ML) student with hands-on experience in machine learning, data analysis, and full-stack development. Se-<br>lected intern at the Indian Statistical Institute (ISI), Kolkata, working on AI/ML and LLM-focused projects<br>using real-world datasets. Passionate about applying software engineering and data-driven approaches to<br>solve enterprise-scale problems.
+ B.Tech Computer Science Engineering (AI-ML) student with hands-on experience in machine learning, data analysis, and full-stack development. Selected intern at the Indian Statistical Institute (ISI), Kolkata, working on AI/ML and LLM-focused projects<br>using real-world datasets. Passionate about applying software engineering and data-driven approaches to<br>solve enterprise-scale problems.
 
 
 ## 🌐 Socials:
